@@ -14,10 +14,29 @@
 – Postear instagram, bluesky 
 
 **C) Remix paisaje chileno:**
-– Obtener imagenes de repositisio surdocs, verc. museo otras imagene en alta resolución. 
+– 20 pintores; de cada uno 20 retratos, 20 paisajes, 20, naturalezas muertas, 20 marinas 
+– Obtener imagenes de repositorio surdocs, o pinturachilena.cl 
+– Ver termas de propiedad intelectual con Museo BA e imagenes en alta resolución. 
 – Crear3-4 reglas (tengo 2)
-– Hacer imagenes, ordenar segun categorias.
+– Hacer imagenes, ordenar segun categorías.
 – Hacer postales o afiches. 
 – Postear instagram, blusky
+– vectorizar y vosualizar vectores?
+– Hacer espacios latentes c pinturas?
+
+## Pintores (isaias)
+
+**20 Pintores retratos:** 
+
+
+**20 Pintores paisajes:**
+
+
+**20, naturalezas muertas:**
+
+
+**20 marinas:**
+
+
 
 ## Referencias 
