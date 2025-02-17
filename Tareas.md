@@ -1,28 +1,27 @@
-# Auras - Tareas Febrero
-
+# README - Tareas Febrero.  
 
  
 **A) Dibujos Constitucionales:**.     
-– Tomar textos de articulos.  
+– Tomar textos de artículos (según datos estructura datos Auras).  
 – Crear3-4 reglas (tengo 1).  
-– Hacer dibujos, ordenar segun categorias.   
-– Hacer postales o afiches.   
+– Hacer dibujos, ordenar según categorías.    
+– Hacer postales o afiches (ver con Lava Press).   
 
 **B) Máquina dibuja máquinas:**.   
-– Imagenes diagramas, seleccionar fuente, ver fuentes con Pedro Álvarez u otros de pintelectual uc, etc.   
+– Imágenes diagramas, seleccionar fuente, ver fuentes con Pedro Álvarez u otros de pintelectual uc, etc.   
 – Algoritmo de remezcla visual.   
-– Selecion imagenes.  
+– Selección Imágenes.  
 – Postear instagram, bluesky.   
 
 **C) Remix paisaje chileno:**.  
-– 20 pintores; de cada uno 20 retratos, 20 paisajes, 20, naturalezas muertas, 20 marinas.   
-– Obtener imagenes de repositorio surdocs, o pinturachilena.cl.    
-– Ver termas de propiedad intelectual con Museo BA e imagenes en alta resolución.    
-– Crear3-4 reglas (tengo 2).  
-– Hacer imagenes, ordenar segun categorías.   
-– Hacer postales o afiches.    
+Categorías: Retratos, Paisajes, Naturalezas Muertas, Marinas, Escenas.  POr ahora escoger 20 de c/categoría (20 pintores para retratos, 20 paisajes, 20, naturalezas muertas, 20 marinas, etc), y de cada pintos, 10 a 20 pinturas.   
+– Obtener imágenes de repositorio surdocs, o pinturachilena.cl.    
+– Ver termas de propiedad intelectual con Museo BA e Imágenes en alta resolución.     
+– Crear 3-4 reglas (tengo 2).  
+– Hacer imágenes, ordenar según categorías.   
+– Hacer postales o afiches (ver con Lava Press).    
 – Postear instagram, bluesky.  
-– vectorizar y vosualizar vectores?.    
+– vectorizar y visualizar vectores?.    
 – Hacer espacios latentes c pinturas?.   
 
 ## Pintores (isaias). 
@@ -74,3 +73,6 @@ lista nombres.
 
 
 ## Referencias 
+
+pinturachilena.cl    
+surdocs.cl    
